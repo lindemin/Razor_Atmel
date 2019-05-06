@@ -85,12 +85,9 @@ Requires:
 Promises:
   - 
 */
-//  test
 void UserApp1Initialize(void)
 {
  
-  
-   LedOn(RED);
   /* If good initialization, set state to Idle */
   if( 1 )
   {
